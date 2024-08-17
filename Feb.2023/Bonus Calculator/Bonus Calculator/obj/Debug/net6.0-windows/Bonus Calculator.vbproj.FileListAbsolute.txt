@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\bin\Debug\net6.0-windows\Bonus Calculator.exe
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\bin\Debug\net6.0-windows\Bonus Calculator.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\bin\Debug\net6.0-windows\Bonus Calculator.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\bin\Debug\net6.0-windows\Bonus Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\bin\Debug\net6.0-windows\Bonus Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus_Calculator.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\refint\Bonus Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\Bonus Calculator.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Bonus Calculator\Bonus Calculator\obj\Debug\net6.0-windows\ref\Bonus Calculator.dll

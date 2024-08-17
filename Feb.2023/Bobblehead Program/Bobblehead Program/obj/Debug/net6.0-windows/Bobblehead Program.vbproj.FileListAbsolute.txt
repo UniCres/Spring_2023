@@ -1,0 +1,19 @@
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead_Program.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead_Program.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\bin\Debug\net6.0-windows\Bobblehead Program.exe
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\bin\Debug\net6.0-windows\Bobblehead Program.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\bin\Debug\net6.0-windows\Bobblehead Program.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\bin\Debug\net6.0-windows\Bobblehead Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\bin\Debug\net6.0-windows\Bobblehead Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\refint\Bobblehead Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead Program.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\ref\Bobblehead Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Bobblehead Program\Bobblehead Program\obj\Debug\net6.0-windows\Bobblehead_Program.frmAbout.resources
