@@ -1,0 +1,19 @@
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\bin\Debug\net6.0-windows\Best Buy Example Program.exe
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\bin\Debug\net6.0-windows\Best Buy Example Program.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\bin\Debug\net6.0-windows\Best Buy Example Program.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\bin\Debug\net6.0-windows\Best Buy Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\bin\Debug\net6.0-windows\Best Buy Example Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best_Buy_Example_Program.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best_Buy_Example_Program.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\refint\Best Buy Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best Buy Example Program.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\ref\Best Buy Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Best Buy Example Program\Best Buy Example Program\obj\Debug\net6.0-windows\Best_Buy_Example_Program.frmAbout.resources
