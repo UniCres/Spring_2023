@@ -1,0 +1,18 @@
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\bin\Debug\net6.0-windows\Heinz Ketchup.exe
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\bin\Debug\net6.0-windows\Heinz Ketchup.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\bin\Debug\net6.0-windows\Heinz Ketchup.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\bin\Debug\net6.0-windows\Heinz Ketchup.dll
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\bin\Debug\net6.0-windows\Heinz Ketchup.pdb
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz_Ketchup.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz_Ketchup.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.dll
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\refint\Heinz Ketchup.dll
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.pdb
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\Heinz Ketchup.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Heinz Ketchup\Heinz Ketchup\obj\Debug\net6.0-windows\ref\Heinz Ketchup.dll
