@@ -1,0 +1,19 @@
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\bin\Debug\net6.0-windows\Lawn Care Example.exe
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\bin\Debug\net6.0-windows\Lawn Care Example.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\bin\Debug\net6.0-windows\Lawn Care Example.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\bin\Debug\net6.0-windows\Lawn Care Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\bin\Debug\net6.0-windows\Lawn Care Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn_Care_Example.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn_Care_Example.frmAbout.resources
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn_Care_Example.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\refint\Lawn Care Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\Lawn Care Example.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Lawn Care Example\Lawn Care Example\obj\Debug\net6.0-windows\ref\Lawn Care Example.dll

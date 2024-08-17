@@ -1,0 +1,18 @@
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\bin\Debug\net6.0-windows\Lab 8 Barts Chalkboard.exe
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\bin\Debug\net6.0-windows\Lab 8 Barts Chalkboard.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\bin\Debug\net6.0-windows\Lab 8 Barts Chalkboard.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\bin\Debug\net6.0-windows\Lab 8 Barts Chalkboard.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\bin\Debug\net6.0-windows\Lab 8 Barts Chalkboard.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab_8_Barts_Chalkboard.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\refint\Lab 8 Barts Chalkboard.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab 8 Barts Chalkboard.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\ref\Lab 8 Barts Chalkboard.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 8 Barts Chalkboard\Lab 8 Barts Chalkboard\obj\Debug\net6.0-windows\Lab_8_Barts_Chalkboard.Resources.resources
