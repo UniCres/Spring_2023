@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\net6.0-windows\Sales Tax Calculator.exe
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\net6.0-windows\Sales Tax Calculator.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\net6.0-windows\Sales Tax Calculator.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\net6.0-windows\Sales Tax Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\net6.0-windows\Sales Tax Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales_Tax_Calculator.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\refint\Sales Tax Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\Sales Tax Calculator.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\net6.0-windows\ref\Sales Tax Calculator.dll

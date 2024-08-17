@@ -1,0 +1,19 @@
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\bin\Debug\net6.0-windows\Shipping Boxes.exe
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\bin\Debug\net6.0-windows\Shipping Boxes.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\bin\Debug\net6.0-windows\Shipping Boxes.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\bin\Debug\net6.0-windows\Shipping Boxes.dll
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\bin\Debug\net6.0-windows\Shipping Boxes.pdb
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping_Boxes.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping_Boxes.frmAbout.resources
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping_Boxes.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.dll
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\refint\Shipping Boxes.dll
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.pdb
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\Shipping Boxes.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Boxes\Shipping Boxes\obj\Debug\net6.0-windows\ref\Shipping Boxes.dll
