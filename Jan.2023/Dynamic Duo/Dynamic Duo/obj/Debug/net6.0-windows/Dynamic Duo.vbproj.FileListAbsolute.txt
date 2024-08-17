@@ -1,0 +1,18 @@
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\bin\Debug\net6.0-windows\Dynamic Duo.exe
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\bin\Debug\net6.0-windows\Dynamic Duo.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\bin\Debug\net6.0-windows\Dynamic Duo.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\bin\Debug\net6.0-windows\Dynamic Duo.dll
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\bin\Debug\net6.0-windows\Dynamic Duo.pdb
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic_Duo.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic_Duo.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.dll
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\refint\Dynamic Duo.dll
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.pdb
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\Dynamic Duo.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Dynamic Duo\Dynamic Duo\obj\Debug\net6.0-windows\ref\Dynamic Duo.dll
