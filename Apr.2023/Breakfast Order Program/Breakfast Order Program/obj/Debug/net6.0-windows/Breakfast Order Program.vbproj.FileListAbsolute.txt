@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\bin\Debug\net6.0-windows\Breakfast Order Program.exe
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\bin\Debug\net6.0-windows\Breakfast Order Program.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\bin\Debug\net6.0-windows\Breakfast Order Program.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\bin\Debug\net6.0-windows\Breakfast Order Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\bin\Debug\net6.0-windows\Breakfast Order Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast_Order_Program.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\refint\Breakfast Order Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\Breakfast Order Program.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Breakfast Order Program\Breakfast Order Program\obj\Debug\net6.0-windows\ref\Breakfast Order Program.dll
