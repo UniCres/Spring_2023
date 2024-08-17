@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\bin\Debug\net6.0-windows\Sub Function Example.exe
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\bin\Debug\net6.0-windows\Sub Function Example.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\bin\Debug\net6.0-windows\Sub Function Example.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\bin\Debug\net6.0-windows\Sub Function Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\bin\Debug\net6.0-windows\Sub Function Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub_Function_Example.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\refint\Sub Function Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\Sub Function Example.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Sub Function Example\Sub Function Example\obj\Debug\net6.0-windows\ref\Sub Function Example.dll
