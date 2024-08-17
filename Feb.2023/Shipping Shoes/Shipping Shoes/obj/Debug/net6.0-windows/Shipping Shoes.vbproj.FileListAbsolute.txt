@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\bin\Debug\net6.0-windows\Shipping Shoes.exe
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\bin\Debug\net6.0-windows\Shipping Shoes.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\bin\Debug\net6.0-windows\Shipping Shoes.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\bin\Debug\net6.0-windows\Shipping Shoes.dll
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\bin\Debug\net6.0-windows\Shipping Shoes.pdb
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping_Shoes.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.dll
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\refint\Shipping Shoes.dll
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.pdb
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\Shipping Shoes.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Shipping Shoes\Shipping Shoes\obj\Debug\net6.0-windows\ref\Shipping Shoes.dll

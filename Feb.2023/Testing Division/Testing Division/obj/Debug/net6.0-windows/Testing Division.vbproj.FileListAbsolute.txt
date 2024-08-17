@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\bin\Debug\net6.0-windows\Testing Division.exe
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\bin\Debug\net6.0-windows\Testing Division.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\bin\Debug\net6.0-windows\Testing Division.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\bin\Debug\net6.0-windows\Testing Division.dll
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\bin\Debug\net6.0-windows\Testing Division.pdb
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing_Division.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.dll
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\refint\Testing Division.dll
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.pdb
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\Testing Division.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Testing Division\Testing Division\obj\Debug\net6.0-windows\ref\Testing Division.dll
