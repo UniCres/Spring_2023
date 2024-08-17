@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\bin\Debug\net6.0-windows\Days Left to Summer Break.exe
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\bin\Debug\net6.0-windows\Days Left to Summer Break.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\bin\Debug\net6.0-windows\Days Left to Summer Break.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\bin\Debug\net6.0-windows\Days Left to Summer Break.dll
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\bin\Debug\net6.0-windows\Days Left to Summer Break.pdb
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days_Left_to_Summer_Break.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.dll
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\refint\Days Left to Summer Break.dll
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.pdb
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\Days Left to Summer Break.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Days Left to Summer Break\Days Left to Summer Break\obj\Debug\net6.0-windows\ref\Days Left to Summer Break.dll
