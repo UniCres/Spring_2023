@@ -1,0 +1,34 @@
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.exe
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab_9___10_x_10_Multiplication_Table.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\refint\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\ref\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.exe
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\bin\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.pdb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab_9___10_x_10_Multiplication_Table.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\refint\Lab 9 - 10 x 10 Multiplication Table.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.pdb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\Lab 9 - 10 x 10 Multiplication Table.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Lab 9 - 10 x 10 Multiplication Table\Lab 9 - 10 x 10 Multiplication Table\obj\Debug\net6.0-windows\ref\Lab 9 - 10 x 10 Multiplication Table.dll
