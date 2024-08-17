@@ -1,0 +1,18 @@
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old_Age.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old_Age.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\bin\Debug\net6.0-windows\Old Age.exe
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\bin\Debug\net6.0-windows\Old Age.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\bin\Debug\net6.0-windows\Old Age.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\bin\Debug\net6.0-windows\Old Age.dll
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\bin\Debug\net6.0-windows\Old Age.pdb
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.dll
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\refint\Old Age.dll
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.pdb
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\Old Age.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Old Age\Old Age\obj\Debug\net6.0-windows\ref\Old Age.dll

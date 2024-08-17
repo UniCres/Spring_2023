@@ -1,0 +1,18 @@
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\bin\Debug\net6.0-windows\Pizza Hut.exe
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\bin\Debug\net6.0-windows\Pizza Hut.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\bin\Debug\net6.0-windows\Pizza Hut.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\bin\Debug\net6.0-windows\Pizza Hut.dll
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\bin\Debug\net6.0-windows\Pizza Hut.pdb
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza_Hut.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza_Hut.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.dll
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\refint\Pizza Hut.dll
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.pdb
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\Pizza Hut.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Pizza Hut\Pizza Hut\obj\Debug\net6.0-windows\ref\Pizza Hut.dll
