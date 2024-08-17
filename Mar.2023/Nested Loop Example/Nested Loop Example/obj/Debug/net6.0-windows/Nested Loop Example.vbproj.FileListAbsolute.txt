@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\bin\Debug\net6.0-windows\Nested Loop Example.exe
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\bin\Debug\net6.0-windows\Nested Loop Example.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\bin\Debug\net6.0-windows\Nested Loop Example.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\bin\Debug\net6.0-windows\Nested Loop Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\bin\Debug\net6.0-windows\Nested Loop Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested_Loop_Example.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\refint\Nested Loop Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\Nested Loop Example.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Nested Loop Example\Nested Loop Example\obj\Debug\net6.0-windows\ref\Nested Loop Example.dll

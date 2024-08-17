@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\bin\Debug\net6.0-windows\List Box Example Program.exe
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\bin\Debug\net6.0-windows\List Box Example Program.deps.json
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\bin\Debug\net6.0-windows\List Box Example Program.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\bin\Debug\net6.0-windows\List Box Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\bin\Debug\net6.0-windows\List Box Example Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List_Box_Example_Program.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\refint\List Box Example Program.dll
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\List Box Example Program.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\List Box Example Program\List Box Example Program\obj\Debug\net6.0-windows\ref\List Box Example Program.dll
