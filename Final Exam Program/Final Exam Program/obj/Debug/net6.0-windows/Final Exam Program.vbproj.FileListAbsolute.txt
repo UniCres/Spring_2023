@@ -1,0 +1,22 @@
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\bin\Debug\net6.0-windows\Final Exam Program.exe
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\bin\Debug\net6.0-windows\Final Exam Program.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\bin\Debug\net6.0-windows\Final Exam Program.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\bin\Debug\net6.0-windows\Final Exam Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\bin\Debug\net6.0-windows\Final Exam Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final_Exam_Program.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final_Exam_Program.frmBestFuelEconomy.resources
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final_Exam_Program.frmFuelCost.resources
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final_Exam_Program.frmFuelCostSummary.resources
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\refint\Final Exam Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.pdb
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final Exam Program.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\ref\Final Exam Program.dll
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final_Exam_Program.frmAbout.resources
+C:\Users\ShiyuChen\Documents\Programming\Final Exam Program\Final Exam Program\obj\Debug\net6.0-windows\Final_Exam_Program.Resources.resources
