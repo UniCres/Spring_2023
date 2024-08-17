@@ -1,0 +1,38 @@
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.exe
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program_8_Monthly_Payment_Calculator.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\refint\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\ref\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program_8_Monthly_Payment_Calculator.frmAbout.resources
+C:\Users\ShiyuChen\Documents\Programming\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program_8_Monthly_Payment_Calculator.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.exe
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\bin\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program_8_Monthly_Payment_Calculator.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program_8_Monthly_Payment_Calculator.frmAbout.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program_8_Monthly_Payment_Calculator.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\refint\Program 8 Monthly Payment Calculator.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.pdb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\Program 8 Monthly Payment Calculator.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 8 Monthly Payment Calculator\Program 8 Monthly Payment Calculator\obj\Debug\net6.0-windows\ref\Program 8 Monthly Payment Calculator.dll
