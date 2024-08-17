@@ -1,0 +1,18 @@
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\bin\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.exe
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\bin\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\bin\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\bin\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\bin\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab_3_Primanti_Brothers_Splash_Screen.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\refint\Lab 3 Primanti Brothers Splash Screen.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab 3 Primanti Brothers Splash Screen.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\ref\Lab 3 Primanti Brothers Splash Screen.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 3 Primanti Brothers Splash Screen\Lab 3 Primanti Brothers Splash Screen\obj\Debug\net6.0-windows\Lab_3_Primanti_Brothers_Splash_Screen.Resources.resources
