@@ -1,0 +1,36 @@
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program_10_Save_the_Pirates.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program_10_Save_the_Pirates.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.exe
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.pdb
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\refint\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.pdb
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\ref\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.exe
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\bin\Debug\net6.0-windows\Program 10 Save the Pirates.pdb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program_10_Save_the_Pirates.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program_10_Save_the_Pirates.Resources.resources
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\refint\Program 10 Save the Pirates.dll
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.pdb
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\Program 10 Save the Pirates.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Apr.2023\Program 10 Save the Pirates\Program 10 Save the Pirates\obj\Debug\net6.0-windows\ref\Program 10 Save the Pirates.dll
