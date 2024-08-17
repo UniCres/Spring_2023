@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\bin\Debug\net6.0-windows\Can You Drive.exe
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\bin\Debug\net6.0-windows\Can You Drive.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\bin\Debug\net6.0-windows\Can You Drive.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\bin\Debug\net6.0-windows\Can You Drive.dll
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\bin\Debug\net6.0-windows\Can You Drive.pdb
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can_You_Drive.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.dll
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\refint\Can You Drive.dll
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.pdb
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\Can You Drive.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Can You Drive\Can You Drive\obj\Debug\net6.0-windows\ref\Can You Drive.dll

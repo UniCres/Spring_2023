@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\bin\Debug\net6.0-windows\Bands Example.exe
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\bin\Debug\net6.0-windows\Bands Example.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\bin\Debug\net6.0-windows\Bands Example.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\bin\Debug\net6.0-windows\Bands Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\bin\Debug\net6.0-windows\Bands Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands_Example.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\refint\Bands Example.dll
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.pdb
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\Bands Example.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Bands Example\Bands Example\obj\Debug\net6.0-windows\ref\Bands Example.dll
