@@ -1,0 +1,17 @@
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\bin\Debug\net6.0-windows\Lab 7 Grade Descriptions.exe
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\bin\Debug\net6.0-windows\Lab 7 Grade Descriptions.deps.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\bin\Debug\net6.0-windows\Lab 7 Grade Descriptions.runtimeconfig.json
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\bin\Debug\net6.0-windows\Lab 7 Grade Descriptions.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\bin\Debug\net6.0-windows\Lab 7 Grade Descriptions.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.vbproj.AssemblyReference.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab_7_Grade_Descriptions.Form1.resources
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.vbproj.GenerateResource.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.AssemblyInfoInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.AssemblyInfo.vb
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.vbproj.CoreCompileInputs.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\refint\Lab 7 Grade Descriptions.dll
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.pdb
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\Lab 7 Grade Descriptions.genruntimeconfig.cache
+C:\Users\ShiyuChen\Documents\Programming\Lab 7 Grade Descriptions\Lab 7 Grade Descriptions\obj\Debug\net6.0-windows\ref\Lab 7 Grade Descriptions.dll
