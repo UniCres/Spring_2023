@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Auburndale Hat Company/1.0.0": {
+        "runtime": {
+          "Auburndale Hat Company.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auburndale Hat Company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
